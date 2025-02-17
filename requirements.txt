@@ -1,0 +1,4 @@
+pytest
+cement
+azure-cli
+
