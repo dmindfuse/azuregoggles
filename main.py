@@ -1,5 +1,5 @@
 from cement import App, Controller, ex
-from my_app.controllers import LoginController, ConfigController, BrowseController, SearchController
+from azg_src.controllers import LoginController, ConfigController, BrowseController, SearchController
 
 class MyApp(App):
     class Meta:
